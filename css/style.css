@@ -1,17 +1,5 @@
 body {
-    width: 500px;
-    margin: 50px auto;
+    width: 400px;
+    margin: 60px auto;
     font-family: sans-serif, Arial;
-}
-
-select, option {
-    padding: 15px;
-    font-size: 18px;
-    font-weight: bold;
-    color: #fff;
-    border: 1px solid;
-}
-
-select {
-    background: #4fbaff;
 }
