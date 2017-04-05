@@ -4,8 +4,9 @@ LinkedIn: www.linkedin.com/in/danielplatek
 CodePen: http://codepen.io/dplatek/  
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Project: Holidayapi  /jQuery  
-CodePen: http://codepen.io/dplatek/pen/peBWVM
+Project: Holidayapi  
+CodePen: http://codepen.io/dplatek/pen/wJZVMW  /JavaScript
+CodePen: http://codepen.io/dplatek/pen/peBWVM  /jQuery
 
 At https://holidayapi.com/ is a database of public holidays in different countries.  
 The **ajax ()** function, loads all the holiday dates into the select element and adds the **optgroup** elements  which will be grouped by months. 
